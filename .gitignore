@@ -1,0 +1,18 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local images for manual tests
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# OS/editor artifacts
+.DS_Store
+.vscode/
