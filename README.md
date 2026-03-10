@@ -29,17 +29,6 @@ Com variavel de ambiente:
 python3 image_token.py caminho/para/imagem.jpg
 ```
 
-## Publicar no GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: image jwt token generator"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/photo-token-generator.git
-git push -u origin main
-```
-
 Ajustando nivel de hardening (iteracoes PBKDF2):
 
 ```bash
